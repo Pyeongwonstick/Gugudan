@@ -19,3 +19,4 @@ public class Gugudan {
 	}
 
 }
+// 단순하게 구구단 구현
